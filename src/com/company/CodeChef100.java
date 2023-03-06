@@ -14,6 +14,7 @@ class Codechef
 		    if(x%25 == 0){
 		        System.out.println(x/25);
 		    }
+			
 		    else{
 		        System.out.println((x/25)+1);
 		    }
