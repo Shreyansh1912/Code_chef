@@ -18,7 +18,8 @@ class Codechef
             int c=0;
             if(k>n){
                 System.out.println("-1");
-            }else{
+            }
+            else{
                 c=0;
                 for(int i=0;i<x;i++){
                     if(c==k){
@@ -29,6 +30,6 @@ class Codechef
                 }
                 System.out.println();
             }
-        }// your code goes here
+        }
     }
 }
